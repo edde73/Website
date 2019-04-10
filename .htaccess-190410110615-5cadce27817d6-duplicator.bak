@@ -1,4 +1,4 @@
-#This Apache config file was created by Duplicator Installer on 2019-04-10 11:07:37.
+#This Apache config file was created by Duplicator Installer on 2019-03-27 15:35:55.
 #The original can be found in archived file with the name htaccess.orig
 
 # BEGIN WordPress
@@ -10,5 +10,4 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /revobanga/index.php [L]
 </IfModule>
-
 # END WordPress
