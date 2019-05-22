@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /*********************************************************************************************
 
 Theme Name: Podcast
@@ -1002,8 +1002,8 @@ h6 a:hover, h6 a:focus {
   color: #da270b; }
 
 body {
-  background-color: #f7f7f7;
-  color: #272727;
+  background-color: #0d0d0d;
+  color: #0d0d0d;
   font-family: Poppins, Arial, sans-serif;
   font-size: 62.5%;
   line-height: 1.5rem;
@@ -2051,14 +2051,14 @@ div.divider {
 #site-footer .current-menu-item a,
 #site-footer a:hover,
 #site-footer a:focus {
-  color: #da270b;
+  color: #C63718;
   text-decoration: underline; }
 
 #site-footer .widget-title {
   color: #12bed9; }
 
 #site-footer-credit {
-  background-color: #070707;
+  background-color: #0d0d0d;
   color: #888;
   font-size: 0.8125rem;
   font-weight: 400;
