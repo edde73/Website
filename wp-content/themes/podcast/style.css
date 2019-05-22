@@ -2055,10 +2055,15 @@ div.divider {
   text-decoration: underline; }
 
 #site-footer .widget-title {
-  color: #12bed9; }
+  color: #12bed9;
+  }
 
 #site-footer-credit {
+<<<<<<< HEAD
   background-color: #0d0d0d;
+=======
+  background-color: #e17909;
+>>>>>>> e25827e0c04dbaed55711c4fee5eb5e571910ecb
   color: #888;
   font-size: 0.8125rem;
   font-weight: 400;
